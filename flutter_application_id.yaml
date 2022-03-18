@@ -1,0 +1,7 @@
+flutter_application_id:
+  android:
+    id: "net.teachei.app"
+    name: "Te Achei"
+  ios:
+    id: "net.teachei.app"
+    name: "Te Achei"
